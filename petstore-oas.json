@@ -13,7 +13,7 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host": "customer-api-staging-3scalegateway.10.0.2.15.xip.io",
+  "host": "gateway-url",
   "basePath": "/v2",
   "schemes": [
     "http"
